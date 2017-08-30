@@ -17,10 +17,6 @@ import com.yltfy.org.model.User;
 import com.yltfy.org.repository.CityRepository;
 import com.yltfy.org.repository.UserRepository;
 
-/**
- * @author LG0812
- * @ComponentScan() 添加要扫描的包
- */
 @RequestMapping("/august")
 @SpringBootApplication
 public class AugustApplication {
